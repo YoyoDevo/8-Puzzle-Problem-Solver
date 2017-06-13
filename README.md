@@ -10,13 +10,19 @@ The program allows the user to set the input as the following:
   2) a specific 8-puzzle configuration entered through the standard input
   
 Configurations for the puzzles are in the format:
-1 2 4
+
+1 2 4 
+
 0 5 6
+
 8 3 7
 
 The goal state is 
+
 0 1 2
+
 3 4 5
+
 6 7 8
 
 0 represents the empty tile.
